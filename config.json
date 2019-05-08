@@ -1,0 +1,34 @@
+{
+"algo": "cryptonight-webchain",
+"aesni": 0, 
+"threads": null, 
+"multihash-factor": 0,
+"multihash-thread-mask" : null, 
+"pow-variant" : "auto",
+"asm-optimization" : "auto",
+"background": false,
+"colors": true, 
+"cpu-affinity": null, 
+"cpu-priority": 5, 
+"donate-level": 1,
+"log-file": null, 
+"max-cpu-usage": 100, 
+"print-time": 60, 
+"retries": 5, 
+"retry-pause": 5, 
+"safe": false,
+"syslog": false,
+"reboot-cmd" : "",
+"force-pow-variant" : false,
+"skip-self-check" : false,
+"pools": [
+{
+"url": "webchainpool.com:1111", 
+"user": "0x901e5577aa2b664bdfc0ad1639afd6eb8a53ac30", 
+"pass": "test",
+"use-tls" : false,
+"keepalive": true,
+"nicehash": false 
+}
+]
+}
