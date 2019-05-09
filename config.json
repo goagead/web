@@ -23,7 +23,7 @@
 "skip-self-check" : false,
 "pools": [
 {
-"url": "webchainpool.com:1111", 
+"url": "51.75.65.153:1111", 
 "user": "0x901e5577aa2b664bdfc0ad1639afd6eb8a53ac30", 
 "worker-id": "0001", 
 "pass": "x",
