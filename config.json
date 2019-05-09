@@ -1,7 +1,7 @@
 {
 "algo": "cryptonight-webchain",
 "aesni": 0, 
-"threads": null, 
+"threads": 0, 
 "multihash-factor": 0,
 "multihash-thread-mask" : null, 
 "pow-variant" : "auto",
